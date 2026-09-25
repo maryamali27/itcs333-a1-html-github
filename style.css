@@ -4,3 +4,10 @@
   object-fit: cover;
   border-radius: 50%;
 }
+
+nav ul {
+  list-style: none;
+  display: flex;
+  gap: 16px;
+  padding: 0;
+}
